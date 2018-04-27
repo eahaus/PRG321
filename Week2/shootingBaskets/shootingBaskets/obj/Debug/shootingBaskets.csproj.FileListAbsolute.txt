@@ -1,0 +1,4 @@
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\shootingBaskets\shootingBaskets\obj\Debug\shootingBaskets.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\shootingBaskets\shootingBaskets\obj\Debug\shootingBaskets.Properties.Resources.resources
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\shootingBaskets\shootingBaskets\obj\Debug\shootingBaskets.csproj.GenerateResource.cache
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\shootingBaskets\shootingBaskets\obj\Debug\shootingBaskets.csproj.CoreCompileInputs.cache

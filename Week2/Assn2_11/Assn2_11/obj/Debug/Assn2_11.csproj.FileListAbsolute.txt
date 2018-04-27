@@ -1,0 +1,10 @@
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\Assn2_11\Assn2_11\bin\Debug\Assn2_11.exe.config
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\Assn2_11\Assn2_11\bin\Debug\Assn2_11.exe
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\Assn2_11\Assn2_11\bin\Debug\Assn2_11.pdb
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\Assn2_11\Assn2_11\obj\Debug\Assn2_11.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\Assn2_11\Assn2_11\obj\Debug\Assn2_11.Properties.Resources.resources
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\Assn2_11\Assn2_11\obj\Debug\Assn2_11.csproj.GenerateResource.cache
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\Assn2_11\Assn2_11\obj\Debug\Assn2_11.csproj.CoreCompileInputs.cache
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\Assn2_11\Assn2_11\obj\Debug\Assn2_11.exe
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\Assn2_11\Assn2_11\obj\Debug\Assn2_11.pdb
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week2\Assn2_11\Assn2_11\obj\Debug\Assn2_11.HS_Basketball.resources

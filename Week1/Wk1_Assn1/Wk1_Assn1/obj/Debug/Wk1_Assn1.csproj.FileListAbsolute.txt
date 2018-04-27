@@ -1,0 +1,10 @@
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week1\Wk1_Assn1\Wk1_Assn1\bin\Debug\Wk1_Assn1.exe.config
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week1\Wk1_Assn1\Wk1_Assn1\bin\Debug\Wk1_Assn1.exe
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week1\Wk1_Assn1\Wk1_Assn1\bin\Debug\Wk1_Assn1.pdb
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week1\Wk1_Assn1\Wk1_Assn1\obj\Debug\Wk1_Assn1.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week1\Wk1_Assn1\Wk1_Assn1\obj\Debug\Wk1_Assn1.Form1.resources
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week1\Wk1_Assn1\Wk1_Assn1\obj\Debug\Wk1_Assn1.Properties.Resources.resources
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week1\Wk1_Assn1\Wk1_Assn1\obj\Debug\Wk1_Assn1.csproj.GenerateResource.cache
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week1\Wk1_Assn1\Wk1_Assn1\obj\Debug\Wk1_Assn1.csproj.CoreCompileInputs.cache
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week1\Wk1_Assn1\Wk1_Assn1\obj\Debug\Wk1_Assn1.exe
+C:\Users\CCSDuser\Documents\GitHub\PRG321\Week1\Wk1_Assn1\Wk1_Assn1\obj\Debug\Wk1_Assn1.pdb
